@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(216, 19, 19);
+    background-color: #fff;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -8,10 +8,27 @@ h1, h2, h3, h4, h5, h6 {
 .logo {
     width: 120px;
 }
+.carousel-item {
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+}
+.icons-facebook {
+    width: 30px;
+    margin: -63px 0px 0px 80px;
+}
+.icons-insta {
+    width: 28px;
+    margin: -63px 0px 0px 0px;
+}
+.icons-twitter {
+    width: 30px;
+    margin: -63px 0px 0px 0px;
+}
+
 .espacio {
     padding: 100px 0;
 }
-
 .carousel-caption {
     position: absolute;
     right: 40%;
@@ -36,16 +53,84 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
 }
 
+.games {
+    width: 650px;
+    margin-left: -65px;
+}
+
+
+.parrafo {
+    padding: 70px 90px;
+}
+
 footer {
     background-color: #252a2e;
-    padding: 100px 0;
+    padding: 60px 0;
     text-align: center;
 }
 
-footer img {
+footer .logo-footer {
     width: 150px;
+    margin-bottom: 20px;
 }
 
 footer p {
     color: white;
+    margin-top: 6px;
+    font-size: 12px;
+}
+
+.icon-facebook {
+    width: 30px;
+    margin-left: -130px;
+    margin-top: 100px;
+}
+.icon-insta {
+    width: 27px;
+    margin-top: 100px;
+}
+.icon-twitter {
+    width: 30px;
+    margin-top: 100px;
+}
+.head-somos {
+    padding: 150px 0 100px 0;
+    background-image: url('img/somos2.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+
+.head-somos h1 {
+    color: white;
+}
+
+.banner-somos {
+    background-image: url('img/oficina.jpg');
+    background-position: center center;
+    background-size: cover;
+    padding: 200px 0;
+    text-align: center;
+}
+.banner-somos h1 {
+    color: white;
+}
+.banner-somos p {
+    color: white;
+}
+
+.btn .btn-light :hover {
+    background-color: transparent;
+    color: white;
+}
+.altura {
+    padding: 80px 0;
+}
+.pasos {
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 19px;
+}
+.autor {
+    color: white;
+    font-size: 12px;
 }

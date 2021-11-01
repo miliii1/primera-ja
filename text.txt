@@ -1,4 +1,4 @@
-Pagina: InfinityGame
+Pagina: InfinyGame
 
-Funcionalidades: 
-
+Esta pagina web consiste en las diferentes novedades que surgen respecto de Marvel, 
+ya sea desde peliculas como hasta los videojuegos o comics.
