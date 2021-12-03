@@ -2,7 +2,7 @@
 
 [<h3>Deployed App</h3>](https://miprimersitioweb.org.ar/proyectos/2021/infinygame/)
 
-*Esta página web esta diseñado solo con puro HTML, CSS y Bootstrap. Presenta diferentes funcionalidades. Consiste en una web acerca de las diferentes novedades y noticias del mundo cinematográfico de Marvel.
+*Esta página web esta diseñado solo con puro HTML, CSS y Bootstrap. Presenta diferentes funcionalidades. Consiste en una web acerca de las diferentes novedades y noticias del mundo cinematográfico de Marvel.*
 
 # Tecnologías utilizadas
 
